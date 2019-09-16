@@ -12,16 +12,16 @@
 6. Create a basic authentication for the login page
 7. Write a tutorial about your login work on lucid.blog
 
-### Extra Points (finish above before you dive into this extra point):
+**Extra Points (finish above before you dive into this extra point):**
 
 * Use multiple languages
 
 * And write about each on lucid
 
-## Restraints:
+**Restraints:**
 
 * Backend is not allowed to use any framework - You are to hardcode your authentication
 
 * Frontend can use frameworks and libraries
 
-## Deadline: 22/Sept/ 2019
+**Deadline: 22/Sept/ 2019**
