@@ -1,0 +1,54 @@
+{
+	"users": [
+		{
+			"username" : "kazeem",
+			"password" : "kaz@2019",
+			"email" : "asifatkazeem@yahoo.com"
+		},
+		{
+			"username" : "abbyJoe",
+			"password" : "abbyJay@2019",
+			"email" : "abbyjoe@yahoo.com"
+		},
+		{
+			"username" : "queue",
+			"password" : "queue@2019",
+			"email" : "queue@yahoo.com"
+		},
+		{
+			"username" : "stephy",
+			"password" : "stephy@2019",
+			"email" : "stephy@yahoo.com"
+		},
+		{
+			"username" : "merit",
+			"password" : "merit@2019",
+			"email" : "merit@yahoo.com"
+		},
+		{
+			"username" : "ibeFx",
+			"password" : "ibefx@2019",
+			"email" : "ibefx@yahoo.com"
+		},
+		{
+			"username" : "great",
+			"password" : "great@2019",
+			"email" : "great@yahoo.com"
+		},
+		{
+			"username" : "wale",
+			"password" : "wale@2019",
+			"email" : "merit@yahoo.com"
+		},
+		{
+			"username" : "tekipharm",
+			"password" : "tekipharm@2019",
+			"email" : "tekipharm@yahoo.com"
+		},
+		{
+			"username" : "faith",
+			"password" : "faith@2019",
+			"email" : "faith@yahoo.com"
+		}
+	]
+}
